@@ -3,7 +3,7 @@
 This is a simple bash file that will create a interactive experience for cowsay! 
 It requires cowsay and lolcat(if you plan on using the feature). 
  
-## How to run
+## How to run it
 To run it all you have to do is run the following command: 
 source <(curl -s https://slothwarden.github.io/cowi/cowi.sh)
 ## Simplifying it 
