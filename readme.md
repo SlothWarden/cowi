@@ -6,7 +6,7 @@ It requires cowsay and lolcat(if you plan on using the feature).
 ## How to run
 To run it all you have to do is run the following command: 
 source <(curl -s https://slothwarden.github.io/cowi/cowi.sh)
-##Simplifying it 
+## Simplifying it 
 If you want to make it easier to type do this for a zsh shell: 
 nano .zshrc  
 Then make sure to find a spot where it won't hurt other configurations, like sdkman if you have it 
