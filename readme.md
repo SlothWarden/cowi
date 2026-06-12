@@ -12,3 +12,4 @@ Then make sure to find a spot where it won't hurt other configurations, like sdk
 Then simply right "alias cowi="source <(curl -s https://slothwarden.github.io/repo-for-resources/cows.sh)"
 After that save your changes, once your back into the terminal type source ~/.zshrc
 And you're done! To run the script type cowi
+Note: If you aren't using the zsh shell or this doesn't work, research the proper startup file for your system.
